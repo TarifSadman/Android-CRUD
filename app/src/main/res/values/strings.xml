@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestNavigation</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="logo_desc">Test Logo</string>
+    <string name="welcome_to_home">Welcome to Home</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="add">Add</string>
+    <string name="task_added">Task Added</string>
+    <string name="task_test_task">Task: Test Task</string>
+    <string name="todo">TODO</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
